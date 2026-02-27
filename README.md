@@ -28,7 +28,7 @@ A modular, interactive digital logic circuit simulator built with Python and Pyg
 ## ⚙️ Installation & Setup
 
 * **Clone The Repository:** [https://github.com/OzgurJs1/LogicSim.git](https://github.com/OzgurJs1/LogicSim.git)
-* **Create and Activate Virtual Environment:** python -m venv venv -> * **On Windows:** .\venv\Scripts\activate  * **On macOS/Linux:** source venv/bin/activate
+* **Create and Activate Virtual Environment:** python -m venv venv -> **On Windows:** .\venv\Scripts\activate  **On macOS/Linux:** source venv/bin/activate
 * **Install Dependencies:** pip install -r requirements.txt
 * **Run the Application:** python main.py
 
