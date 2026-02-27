@@ -20,10 +20,29 @@ A modular, interactive digital logic circuit simulator built with Python and Pyg
 * **Design Pattern:** Object-Oriented Programming (OOP) utilizing Polymorphism for gate logic.
 * **Backend Logic:** Stack-based history management for undo operations.
 * **Architecture:** Decoupled system design for high maintainability and scalability.
+* **Language:** Python 3.x
+* **Library:** Pygame-ce
+* **Design Pattern:** Object-Oriented Programming (OOP) utilizing Polymorphism for gate logic.
+* **Backend Logic:** Stack-based history management for undo operations.
 
+## ⚙️ Installation & Setup
 
+* **Clone The Repository:** [https://github.com/OzgurJs1/LogicSim.git](https://github.com/OzgurJs1/LogicSim.git)
+* **Create and Activate Virtual Environment:** python -m venv venv -> * **On Windows:** .\venv\Scripts\activate  * **On macOS/Linux:** source venv/bin/activate
+* **Install Dependencies:** pip install -r requirements.txt
+* **Run the Application:** python main.py
+
+## How To Use
+
+* **Add Components:** Use the sidebar buttons to spawn gates (AND, OR, NOT, XOR, NAND) or input switches.
+* **Move:** Drag and drop components to organize your workspace.
+* **Wire:** Click and drag from an output pin (right side) to an input pin (left side) to establish a connection.
+* **Interact:** Click on any SW (Switch) to toggle its state. Neon yellow wires represent an active (True) signal.
+* **Undo:** Use the UNDO button or press Ctrl + Z to remove the last action.
 
 ## 📁 Project Structure
+
+### Developed by Özgür Ay Computer Programmer
 
 ```text
 LogicSim/
