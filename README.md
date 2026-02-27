@@ -16,14 +16,10 @@ A modular, interactive digital logic circuit simulator built with Python and Pyg
 ## 🛠️ Technical Specifications
 
 * **Language:** Python 3.x
-* **Library:** Pygame
-* **Design Pattern:** Object-Oriented Programming (OOP) utilizing Polymorphism for gate logic.
 * **Backend Logic:** Stack-based history management for undo operations.
 * **Architecture:** Decoupled system design for high maintainability and scalability.
-* **Language:** Python 3.x
 * **Library:** Pygame-ce
 * **Design Pattern:** Object-Oriented Programming (OOP) utilizing Polymorphism for gate logic.
-* **Backend Logic:** Stack-based history management for undo operations.
 
 ## ⚙️ Installation & Setup
 
