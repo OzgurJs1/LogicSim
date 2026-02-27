@@ -34,4 +34,5 @@ LogicSim/
 │   ├── input_handler.py # Event management for mouse and keyboard
 │   └── renderer.py      # Drawing engine and Dark Mode visual effects
 ├── main.py              # Application entry point
+└── requirements.txt
 └── README.md
