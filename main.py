@@ -7,7 +7,7 @@ from ui.input_handler import InputHandler
 def main():
     pygame.init()
     screen = pygame.display.set_mode((1000, 700))
-    pygame.display.set_caption("Logic Flow Simulator - Ozgur Ay Edition")
+    pygame.display.set_caption("Logic Flow Simulator - 2026 Edition")
     
     renderer = Renderer(screen, 130)
     handler = InputHandler(130)
@@ -116,4 +116,5 @@ def main():
     pygame.quit()
 
 if __name__ == "__main__":
+
     main()
